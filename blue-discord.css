@@ -1,3 +1,10 @@
+/**
+ * @name Blue Discord
+ * @author DatKorgi#4740
+ * @version 1.0 BETA
+ * @description A blue hue mode for Discord. (Requires compact mode to be enabled)
+*/
+
 :root {
   --border-radius: 5px;
   --font-primary: var(--font);
