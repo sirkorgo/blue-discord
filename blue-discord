@@ -1,9 +1,0 @@
-/**
- * @name Blue Discord
- * @author DatKorgi#4740
- * @version 1.0 BETA
- * @invite ZHthyCw
- * @description A blue hue mode for Discord. (Requires compact mode to be enabled)
-*/
-
-@import url("https://raw.githubusercontent.com/jgoze123/blue-discord/main/theme.css");
