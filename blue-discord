@@ -6,4 +6,4 @@
  * @description A blue hue mode for Discord. (Requires compact mode to be enabled)
 */
 
-@import url("https://raw.githubusercontent.com/jgoze123/blue-discord/main/blue-discord.css");
+@import url("https://raw.githubusercontent.com/jgoze123/blue-discord/main/theme.css");
